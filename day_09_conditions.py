@@ -1,4 +1,4 @@
-1) score = 90
+ score = 90
 if score > 90:
     print("AIML Queen Aishu! 🔥")
 elif score > 70:
@@ -8,7 +8,7 @@ else:
 
 
 
-2) aishu_love_for_code = 90
+ aishu_love_for_code = 90
 
 if aishu_love_for_code == 100:
     print("Aishu = AIML Queen Confirmed ❤️💻")
